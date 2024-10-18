@@ -29,3 +29,9 @@ The dataset consists of 7,200 records with 21 attributes, of which 15 are binary
 ## Results
 
 Anomalies detected by each algorithm are visualized in 2D and 3D space using PCA and t-SNE. The final anomaly labels are assigned based on the majority voting approach, identifying 5.9% of the dataset as anomalous.
+
+### _Content_:
+- [unsupervised_anomaly_detection.ipynb](https://github.com/MomiQB/Unsupervised-Anomaly-Detection/blob/main/unsupervised_anomaly_detection.ipynb): notebook implementing the analysis and the methodologies.
+- [gower_distance_matrix.npy](https://github.com/MomiQB/Unsupervised-Anomaly-Detection/blob/main/gower_distance_matrix.npy): numpy file with Gower distances.
+
+
