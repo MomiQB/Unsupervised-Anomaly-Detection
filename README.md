@@ -1,6 +1,3 @@
-# Unsupervised-Anomaly-Detection
-Unsupervised anomaly detection on the Hypothyroidism dataset using KNN, LOF, DBSCAN, PCA, and One-Class SVM to analyze patient records.
-
 # Unsupervised Anomaly Detection on Hypothyroidism Dataset
 
 This repository contains the implementation of multiple **unsupervised anomaly detection** algorithms applied to a hypothyroidism dataset. The **main goal** is to identify anomalous patient records using various methods and combine their outputs for enhanced accuracy through majority voting.
